@@ -7,8 +7,8 @@ This repo include the prediction maps generated from [Badr et al. (2022)](https:
 
 ## Naming convention
 The filenames follow 13-characters naming convention:
-- The first four letters are obviously the abbreviation of the pathogen (**shig** = Shigella).
-- Then, two letters indicating whether it's the probability or standard error (**pr** = Probability | **se** = Standard Error).
+- The first four letters are the abbreviation of the pathogen (**shig** = Shigella).
+- The next two letters indicating whether it is the probability or standard error (**pr** = Probability | **se** = Standard Error).
 - Next are four numbers giving the upper and lower bound of the age range of the estimate in months.
 - After that is a one letter for the syndrome (**a** = Asymptomatic | **s** = Surveillance).
 - Last comes two letters indicating if the study design (**hf** = Health Facility | **cs** = Community Surveillance).
