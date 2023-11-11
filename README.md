@@ -1,9 +1,9 @@
 # Spatiotemporal variation in risk of Shigella infection in childhood: a global risk mapping and prediction model using individual participant data
 
 [![Funding: NASA/NIH/BMGF](https://img.shields.io/badge/Funding-NASA%20GEO%20&%20NIH%20NIAID%20&%20BMGF-blue.svg)](#Funding)
-[![DOI: 10.1101/2022.08.04.22277641](https://zenodo.org/badge/DOI/10.1101%2F2022.08.04.22277641.svg)](https://doi.org/10.1101/2022.08.04.22277641)
+[![DOI: 10.1016/S2214-109X(22)00549-6](https://zenodo.org/badge/DOI/10.1016/S2214-109X(22)00549-6.svg)](https://doi.org/10.1016/S2214-109X(22)00549-6)
 
-This repo includes the prediction maps generated from [Badr et al. (2022)](https://doi.org/10.1101/2022.08.04.22277641).
+This repo includes the prediction maps generated from [Badr, Colston et al. (2023)](https://doi.org/10.1016/S2214-109X(22)00549-6).
 
 ## Naming convention
 The filenames follow 13-characters naming convention:
